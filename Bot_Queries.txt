@@ -1,0 +1,10 @@
+The bot shall answer the following queries:
+
+1) Full name of the person & short name of the person.
+2) Who is that person.
+3) What is the person pursuing right now.
+4) How the person reached there.
+5) What kind of work the person is passionate about.
+6) Why is the person passionate about it.
+7) Biggest achievement of the person.
+8) What are the future plan of the person.
