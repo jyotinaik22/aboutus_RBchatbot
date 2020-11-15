@@ -14,7 +14,7 @@ A - student
 --------------------------------------------------
 Q4 - What is Jyoti pursuing?
 
-A - engineering
+A - engineering -btech
 ---------------------------------------------------
 Q5 - How did Jyoti reached graduation phase?/ What are Jyoti's previous qualifications?
 
