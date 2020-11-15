@@ -2,15 +2,15 @@ Answers to be given by bot for Jyoti:
 -----------------------------------------------
 Q1 - What is full name of Jyoti?
 
-A - To be answered.
+A - Jyotirmayee Naik
 ------------------------------------------------
 Q2 - What is short name of Jyoti?
 
-A - To be answered.
+A - Jyoti
 -------------------------------------------------
 Q3 - Who is Jyoti?
 
-A - To be answered.
+A - student
 --------------------------------------------------
 Q4 - What is Jyoti pursuing?
 
