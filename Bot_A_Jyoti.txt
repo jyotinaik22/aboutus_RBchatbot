@@ -10,29 +10,29 @@ A - Jyoti
 -------------------------------------------------
 Q3 - Who is Jyoti?
 
-A - student
+A - Jyoti is an undergraduate Computer Science student.
 --------------------------------------------------
 Q4 - What is Jyoti pursuing?
 
-A - engineering -btech
+A - Jyoti is pursuing graduation in Computer Science and Engineering from National Institute of Science and Technology.(2018-2022)
 ---------------------------------------------------
 Q5 - How did Jyoti reached graduation phase?/ What are Jyoti's previous qualifications?
 
-A - To be answered.
+A - Jyoti had done her matriculation and intermediate from D.A.V. Public School, MCL Bandhabahal under Delhi CBSE board.
 ----------------------------------------------------
 Q6 - What kind of work is Jyoti passionate about?
 
-A - To be answered.
+A - Jyoti is passionate about designing and customizing the things.
 -----------------------------------------------------
 Q7 - Why is Jyoti passionate about her work?
 
-A - To be answered.
+A - Jyoti likes to draw, design, code and customize the things according to her wish so that many users get help. 
 -----------------------------------------------------
 Q8 - What are biggest achievements of Jyoti?
 
-A - To be answered.
+A - Jyoti got 2nd prize in Inter Zonal Painting Competition and 3rd prize in Inter Zonal Science Exhibition.  
 ------------------------------------------------------
 Q9 - What are future plans of Jyoti?
 
-A - To be answered.
+A - Jyoti wants to be a good designer so that her minimalist designs and simplicity in code will help others. 
 ------------------------------------------------------
